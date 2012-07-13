@@ -21,7 +21,7 @@ This plugin includes the option to display a current date and time in your sideb
 
 == Frequently Asked Questions ==
 
-= How do I display the testimonials in the sidebar? =
+= How do I display the Clock in the sidebar? =
 
 Just drag and drop clock widget in widget area.
 
